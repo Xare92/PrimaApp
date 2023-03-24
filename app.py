@@ -15,7 +15,7 @@ st.title('Rocket Science App')
 
 st.video('https://www.youtube.com/watch?v=DtVBCG6ThDk')
 
-st.slider('Quante Volte Daniele ha detto "non è rocket science" oggi?,min_value=0,max_value=100')
+st.slider('Quante Volte Daniele ha detto "non è rocket science" oggi?',min_value=0,max_value=100)
 
 import pandas as pd
 import numpy as np
